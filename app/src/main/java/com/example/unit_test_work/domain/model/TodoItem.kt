@@ -6,5 +6,5 @@ import androidx.room.PrimaryKey
 @Entity
 data class TodoItem(
     val title: String,
-    @PrimaryKey val todoIte: Int
+    @PrimaryKey val todoId: Int
 )
