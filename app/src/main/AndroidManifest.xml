@@ -15,6 +15,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Unit_Test_Work"
         tools:targetApi="31"
+        android:name=".BaseApplication"
         >
         <activity
             android:name=".MainActivity"
